@@ -37,11 +37,11 @@ Contact us
 
 ## Live site Preview 
 
-[Chicago](https://moksy.com/templates/chicago/?project_id=16225)
+[California]()
 
 
 ## Github Preview 
-[Chicago](https://moksy-lab.github.io/chicago/)
+[California](https://627md-tajul-islam.github.io/california)
 
 
 ## Like our project ? 
